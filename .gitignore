@@ -1,0 +1,8 @@
+data
+docs
+notebooks
+__pycache__
+.env
+src/main/app.py
+src/scripts/_pycache_
+src/scripts/chromadb_persist.py
