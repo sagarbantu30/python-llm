@@ -18,3 +18,4 @@ PyPDF2 == 3.0.1
 pinecone-client==5.0.0
 langgraph==0.1.17
 gunicorn
+sqlite3 == 3.35.0
